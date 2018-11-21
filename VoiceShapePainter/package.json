@@ -1,0 +1,14 @@
+{
+  "name": "voiceshapepainter",
+  "version": "1.0.0",
+  "description": "app to recognize voice and draw shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "albert",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
