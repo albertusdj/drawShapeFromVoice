@@ -7,7 +7,7 @@ Stat: check_hmm_restriction: an HMM with several arcs from initial state found: 
 Stat: rdhmmdef: this HMM requires multipath handling at decoding
 Stat: rdhmmdef: no <SID> embedded
 Stat: rdhmmdef: assign SID by the order of appearance
-Stat: init_phmm: defined HMMs:    29
+Stat: init_phmm: defined HMMs:    32
 Stat: init_phmm: loading ascii hmmlist
 Stat: init_phmm: logical names:    54 in HMMList
 Stat: init_phmm: base phones:    28 used in logical
@@ -117,7 +117,7 @@ Acoustic Model(s)
 [AM00 "_default"]
 
  HMM Info:
-    29 models, 83 states, 83 mpdfs, 83 Gaussians are defined
+    32 models, 87 states, 87 mpdfs, 87 Gaussians are defined
 	      model type = context dependency handling ON
       training parameter = MFCC_N_D_Z_0
 	   vector length = 25
@@ -235,12 +235,48 @@ Notice for feature extraction (01),
 Stat: adin_portaudio: audio cycle buffer length = 256000 bytes
 Stat: adin_portaudio: sound capture devices:
   1 [MME: Microsoft Sound Mapper - Input]
-  2 [MME: Microphone (Realtek High Defini]
-  5 [Windows DirectSound: Primary Sound Capture Driver]
-  6 [Windows DirectSound: Microphone (Realtek High Definition Audio)]
+  2 [MME: Microphone Array (Realtek High ]
+  3 [MME: Stereo Mix (Realtek High Defini]
+  6 [Windows DirectSound: Primary Sound Capture Driver]
+  7 [Windows DirectSound: Microphone Array (Realtek High Definition Audio)]
+  8 [Windows DirectSound: Stereo Mix (Realtek High Definition Audio)]
 Stat: adin_portaudio: APIs: DirectSound MME
 Stat: adin_portaudio: -- DirectSound selected
 Stat: adin_portaudio: [Windows DirectSound: Primary Sound Capture Driver]
 Stat: adin_portaudio: (you can specify device by "PORTAUDIO_DEV_NUM=number"
 Stat: adin_portaudio: try to set default low latency from portaudio: 0 msec
 Stat: adin_portaudio: latency was set to 0.000000 msec
+Warning: strip: sample 35-53 has zero value, stripped
+Warning: strip: sample 227-247 has zero value, stripped
+Warning: strip: sample 16-32 has zero value, stripped
+Warning: strip: sample 37-52 has zero value, stripped
+Warning: strip: sample 84-99 has zero value, stripped
+Warning: strip: sample 450-467 has zero value, stripped
+Warning: strip: sample 201-222 has zero value, stripped
+Warning: strip: sample 416-432 has zero value, stripped
+Warning: strip: sample 87-103 has zero value, stripped
+Warning: strip: sample 110-129 has zero value, stripped
+Warning: strip: sample 219-235 has zero value, stripped
+Warning: strip: sample 287-306 has zero value, stripped
+Warning: strip: sample 306-338 has zero value, stripped
+Warning: strip: sample 348-369 has zero value, stripped
+Warning: strip: sample 164-191 has zero value, stripped
+Warning: strip: sample 291-309 has zero value, stripped
+Warning: strip: sample 483-499 is invalid, stripped
+Warning: strip: sample 272-288 has zero value, stripped
+Warning: strip: sample 293-308 has zero value, stripped
+Warning: strip: sample 340-355 has zero value, stripped
+Warning: strip: sample 206-223 has zero value, stripped
+Warning: strip: sample 37-58 has zero value, stripped
+Warning: strip: sample 172-188 has zero value, stripped
+Warning: strip: sample 343-359 has zero value, stripped
+Warning: strip: sample 366-385 has zero value, stripped
+Warning: strip: sample 475-491 has zero value, stripped
+Warning: strip: sample 43-62 has zero value, stripped
+Warning: strip: sample 142-174 has zero value, stripped
+Warning: strip: sample 184-205 has zero value, stripped
+Warning: strip: sample 420-447 has zero value, stripped
+Warning: strip: sample 47-65 has zero value, stripped
+Warning: strip: sample 239-259 has zero value, stripped
+Warning: strip: sample 28-44 has zero value, stripped
+Warning: strip: sample 49-64 has zero value, stripped

@@ -26,7 +26,8 @@ QS  "R_NonCoronal" { *+p,*+pd,*+b,*+m,*+k,*+kd,*+g,*+ng,*+f,*+v,*+hh,*+y,*+w }
 QS  "R_Anterior"        { *+p,*+pd,*+b,*+m,*+t,*+td,*+d,*+dd,*+n,*+en,*+f,*+v,*+th,*+dh,*+s,*+z,*+l,*+el,*+w }
 QS  "R_NonAnterior" { *+k,*+kd,*+g,*+ng,*+sh,*+hh,*+ch,*+jh,*+r,*+y }
 QS  "R_Continuent"   { *+m,*+n,*+en,*+ng,*+f,*+v,*+th,*+dh,*+s,*+z,*+sh,*+hh,*+l,*+el,*+r,*+y,*+w }
-QS  "R_NonContinuent"        { *+p,*+pd,*+b,*+t,*+td,*+d,*+dd,*+k,*+kd,*+g,*+ch,*+jh }
+QS  "R_NonContinuent"        { *+p,*+pd,*+b,*+t,*+td,*+d,*+dd,*+k,*+kd,*+g,*+ch,*+jh }
+
 QS  "R_Strident"        { *+s,*+z,*+sh,*+ch,*+jh }
 QS  "R_NonStrident"  { *+f,*+v,*+th,*+dh,*+hh }
 QS  "R_UnStrident"   { *+p,*+pd,*+b,*+m,*+t,*+td,*+d,*+dd,*+n,*+en,*+k,*+kd,*+g,*+ng,*+l,*+el,*+r,*+y,*+w }
@@ -308,7 +309,7 @@ TB 350 "ST_m_4_" {("m","*-m+*","m+*","*-m").state[4]}
 
 TR 1
 
-AU "./fulllist" 
+AU "./triphones1" 
 CO "./tiedlist" 
 
 ST "./trees" 

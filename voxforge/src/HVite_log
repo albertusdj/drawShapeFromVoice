@@ -17,211 +17,280 @@ Read 28 physical / 28 logical HMMs
 Label file will be used to align each file
 Aligning File: ../train/mfcc/Alvin_S0001.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE ONE SENT-END  ==  [219 frames] -58.5935 [Ac=-12832.0 LM=0.0] (Act=8.2)
+SENT-END DRAW CIRCLE ONE SENT-END  ==  [219 frames] -57.8917 [Ac=-12678.3 LM=0.0] (Act=7.8)
 Aligning File: ../train/mfcc/Alvin_S0002.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE TWO SENT-END  ==  [177 frames] -60.4335 [Ac=-10696.7 LM=0.0] (Act=7.9)
+SENT-END DRAW CIRCLE TWO SENT-END  ==  [177 frames] -60.0615 [Ac=-10630.9 LM=0.0] (Act=7.3)
 Aligning File: ../train/mfcc/Alvin_S0003.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE THREE SENT-END  ==  [203 frames] -58.9652 [Ac=-11969.9 LM=0.0] (Act=7.7)
+SENT-END DRAW CIRCLE THREE SENT-END  ==  [203 frames] -58.5865 [Ac=-11893.1 LM=0.0] (Act=7.4)
 Aligning File: ../train/mfcc/Alvin_S0004.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE ONE SENT-END  ==  [178 frames] -58.3232 [Ac=-10381.5 LM=0.0] (Act=7.1)
+SENT-END DRAW SQUARE ONE SENT-END  ==  [178 frames] -58.4182 [Ac=-10398.4 LM=0.0] (Act=6.8)
 Aligning File: ../train/mfcc/Alvin_S0005.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE TWO SENT-END  ==  [179 frames] -57.8244 [Ac=-10350.6 LM=0.0] (Act=8.3)
+SENT-END DRAW SQUARE TWO SENT-END  ==  [179 frames] -57.9015 [Ac=-10364.4 LM=0.0] (Act=7.9)
 Aligning File: ../train/mfcc/Alvin_S0006.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE THREE SENT-END  ==  [173 frames] -57.6475 [Ac=-9973.0 LM=0.0] (Act=7.6)
+SENT-END DRAW SQUARE THREE SENT-END  ==  [173 frames] -57.6833 [Ac=-9979.2 LM=0.0] (Act=7.2)
 Aligning File: ../train/mfcc/Alvin_S0007.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE ONE SENT-END  ==  [202 frames] -59.3802 [Ac=-11994.8 LM=0.0] (Act=8.5)
+SENT-END DRAW TRIANGLE ONE SENT-END  ==  [202 frames] -59.1123 [Ac=-11940.7 LM=0.0] (Act=7.9)
 Aligning File: ../train/mfcc/Alvin_S0008.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE TWO SENT-END  ==  [216 frames] -57.7985 [Ac=-12484.5 LM=0.0] (Act=8.9)
+SENT-END DRAW TRIANGLE TWO SENT-END  ==  [216 frames] -57.5924 [Ac=-12440.0 LM=0.0] (Act=8.4)
 Aligning File: ../train/mfcc/Alvin_S0009.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE THREE SENT-END  ==  [186 frames] -61.8961 [Ac=-11512.7 LM=0.0] (Act=8.4)
+SENT-END DRAW TRIANGLE THREE SENT-END  ==  [186 frames] -61.6162 [Ac=-11460.6 LM=0.0] (Act=7.9)
 Aligning File: ../train/mfcc/Alvin_S0010.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ZOOM IN SENT-END  ==  [135 frames] -58.1653 [Ac=-7852.3 LM=0.0] (Act=8.1)
+SENT-END ZOOM IN SENT-END  ==  [135 frames] -58.1210 [Ac=-7846.3 LM=0.0] (Act=8.5)
 Aligning File: ../train/mfcc/Alvin_S0011.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ZOOM OUT SENT-END  ==  [243 frames] -55.8316 [Ac=-13567.1 LM=0.0] (Act=6.0)
+SENT-END ZOOM OUT SENT-END  ==  [243 frames] -54.5244 [Ac=-13249.4 LM=0.0] (Act=8.7)
 Aligning File: ../train/mfcc/Alvin_S0012.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE RED SENT-END  ==  [213 frames] -58.0112 [Ac=-12356.4 LM=0.0] (Act=8.9)
+SENT-END FILL CIRCLE RED SENT-END  ==  [213 frames] -57.3912 [Ac=-12224.3 LM=0.0] (Act=8.5)
 Aligning File: ../train/mfcc/Alvin_S0013.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE GREEN SENT-END  ==  [205 frames] -59.3987 [Ac=-12176.7 LM=0.0] (Act=8.7)
+SENT-END FILL CIRCLE GREEN SENT-END  ==  [205 frames] -58.9008 [Ac=-12074.7 LM=0.0] (Act=8.1)
 Aligning File: ../train/mfcc/Alvin_S0014.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE BLUE SENT-END  ==  [192 frames] -58.6951 [Ac=-11269.5 LM=0.0] (Act=8.2)
+SENT-END FILL CIRCLE BLUE SENT-END  ==  [192 frames] -58.6254 [Ac=-11256.1 LM=0.0] (Act=8.0)
 Aligning File: ../train/mfcc/Alvin_S0015.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE RED SENT-END  ==  [201 frames] -57.5019 [Ac=-11557.9 LM=0.0] (Act=8.7)
+SENT-END FILL SQUARE RED SENT-END  ==  [201 frames] -57.5425 [Ac=-11566.0 LM=0.0] (Act=8.8)
 Aligning File: ../train/mfcc/Alvin_S0016.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE GREEN SENT-END  ==  [173 frames] -60.7434 [Ac=-10508.6 LM=0.0] (Act=8.3)
+SENT-END FILL SQUARE GREEN SENT-END  ==  [173 frames] -60.6128 [Ac=-10486.0 LM=0.0] (Act=8.4)
 Aligning File: ../train/mfcc/Alvin_S0017.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE BLUE SENT-END  ==  [183 frames] -57.9835 [Ac=-10611.0 LM=0.0] (Act=7.5)
+SENT-END FILL SQUARE BLUE SENT-END  ==  [183 frames] -57.9915 [Ac=-10612.4 LM=0.0] (Act=7.3)
 Aligning File: ../train/mfcc/Alvin_S0018.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE RED SENT-END  ==  [192 frames] -59.0374 [Ac=-11335.2 LM=0.0] (Act=9.5)
+SENT-END FILL TRIANGLE RED SENT-END  ==  [192 frames] -58.4307 [Ac=-11218.7 LM=0.0] (Act=9.7)
 Aligning File: ../train/mfcc/Alvin_S0019.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE GREEN SENT-END  ==  [212 frames] -58.8901 [Ac=-12484.7 LM=0.0] (Act=8.3)
+SENT-END FILL TRIANGLE GREEN SENT-END  ==  [212 frames] -58.7680 [Ac=-12458.8 LM=0.0] (Act=8.6)
 Aligning File: ../train/mfcc/Alvin_S0020.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE BLUE SENT-END  ==  [192 frames] -59.2581 [Ac=-11377.5 LM=0.0] (Act=9.2)
+SENT-END FILL TRIANGLE BLUE SENT-END  ==  [192 frames] -58.6805 [Ac=-11266.6 LM=0.0] (Act=9.5)
 Aligning File: ../train/mfcc/Alvin_S0021.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE CIRCLE SENT-END  ==  [186 frames] -56.8799 [Ac=-10579.7 LM=0.0] (Act=6.8)
+SENT-END ERASE CIRCLE SENT-END  ==  [186 frames] -56.4260 [Ac=-10495.2 LM=0.0] (Act=6.8)
 Aligning File: ../train/mfcc/Alvin_S0022.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE SQUARE SENT-END  ==  [181 frames] -55.9641 [Ac=-10129.5 LM=0.0] (Act=6.8)
+SENT-END ERASE SQUARE SENT-END  ==  [181 frames] -55.7838 [Ac=-10096.9 LM=0.0] (Act=6.9)
 Aligning File: ../train/mfcc/Alvin_S0023.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE TRIANGLE SENT-END  ==  [186 frames] -55.9536 [Ac=-10407.4 LM=0.0] (Act=6.5)
+SENT-END ERASE TRIANGLE SENT-END  ==  [186 frames] -55.9718 [Ac=-10410.8 LM=0.0] (Act=6.5)
 Aligning File: ../train/mfcc/Edwin_S0001.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE ONE SENT-END  ==  [291 frames] -55.2916 [Ac=-16089.9 LM=0.0] (Act=8.2)
+SENT-END DRAW CIRCLE ONE SENT-END  ==  [291 frames] -55.7277 [Ac=-16216.8 LM=0.0] (Act=8.2)
 Aligning File: ../train/mfcc/Edwin_S0002.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE TWO SENT-END  ==  [202 frames] -60.1055 [Ac=-12141.3 LM=0.0] (Act=8.3)
+SENT-END DRAW CIRCLE TWO SENT-END  ==  [202 frames] -60.4953 [Ac=-12220.1 LM=0.0] (Act=8.1)
 Aligning File: ../train/mfcc/Edwin_S0003.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE THREE SENT-END  ==  [199 frames] -59.7993 [Ac=-11900.1 LM=0.0] (Act=7.7)
+SENT-END DRAW CIRCLE THREE SENT-END  ==  [199 frames] -60.1794 [Ac=-11975.7 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/Edwin_S0004.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE ONE SENT-END  ==  [277 frames] -55.4234 [Ac=-15352.3 LM=0.0] (Act=7.7)
+SENT-END DRAW SQUARE ONE SENT-END  ==  [277 frames] -55.9786 [Ac=-15506.1 LM=0.0] (Act=7.6)
 Aligning File: ../train/mfcc/Edwin_S0005.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE TWO SENT-END  ==  [198 frames] -57.9964 [Ac=-11483.3 LM=0.0] (Act=7.9)
+SENT-END DRAW SQUARE TWO SENT-END  ==  [198 frames] -58.6678 [Ac=-11616.2 LM=0.0] (Act=7.8)
 Aligning File: ../train/mfcc/Edwin_S0006.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE THREE SENT-END  ==  [239 frames] -55.8682 [Ac=-13352.5 LM=0.0] (Act=7.3)
+SENT-END DRAW SQUARE THREE SENT-END  ==  [239 frames] -56.7696 [Ac=-13567.9 LM=0.0] (Act=7.2)
 Aligning File: ../train/mfcc/Edwin_S0007.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE ONE SENT-END  ==  [214 frames] -58.4220 [Ac=-12502.3 LM=0.0] (Act=8.5)
+SENT-END DRAW TRIANGLE ONE SENT-END  ==  [214 frames] -59.2952 [Ac=-12689.2 LM=0.0] (Act=8.9)
 Aligning File: ../train/mfcc/Edwin_S0008.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE TWO SENT-END  ==  [220 frames] -58.1136 [Ac=-12785.0 LM=0.0] (Act=8.8)
+SENT-END DRAW TRIANGLE TWO SENT-END  ==  [220 frames] -58.6412 [Ac=-12901.1 LM=0.0] (Act=8.6)
 Aligning File: ../train/mfcc/Edwin_S0009.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE THREE SENT-END  ==  [221 frames] -57.0679 [Ac=-12612.0 LM=0.0] (Act=8.0)
+SENT-END DRAW TRIANGLE THREE SENT-END  ==  [221 frames] -57.8674 [Ac=-12788.7 LM=0.0] (Act=8.0)
 Aligning File: ../train/mfcc/Edwin_S0010.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ZOOM IN SENT-END  ==  [198 frames] -52.4003 [Ac=-10375.3 LM=0.0] (Act=8.3)
+SENT-END ZOOM IN SENT-END  ==  [198 frames] -52.7073 [Ac=-10436.0 LM=0.0] (Act=8.6)
 Aligning File: ../train/mfcc/Edwin_S0011.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ZOOM OUT SENT-END  ==  [155 frames] -55.5104 [Ac=-8604.1 LM=0.0] (Act=6.5)
+SENT-END ZOOM OUT SENT-END  ==  [155 frames] -56.3571 [Ac=-8735.3 LM=0.0] (Act=7.2)
 Aligning File: ../train/mfcc/Edwin_S0012.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE RED SENT-END  ==  [203 frames] -57.9007 [Ac=-11753.9 LM=0.0] (Act=8.6)
+SENT-END FILL CIRCLE RED SENT-END  ==  [203 frames] -58.7186 [Ac=-11919.9 LM=0.0] (Act=9.0)
 Aligning File: ../train/mfcc/Edwin_S0013.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE GREEN SENT-END  ==  [221 frames] -59.6954 [Ac=-13192.7 LM=0.0] (Act=8.6)
+SENT-END FILL CIRCLE GREEN SENT-END  ==  [221 frames] -60.6199 [Ac=-13397.0 LM=0.0] (Act=8.5)
 Aligning File: ../train/mfcc/Edwin_S0014.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE BLUE SENT-END  ==  [251 frames] -58.4567 [Ac=-14672.6 LM=0.0] (Act=7.9)
+SENT-END FILL CIRCLE BLUE SENT-END  ==  [251 frames] -59.1181 [Ac=-14838.6 LM=0.0] (Act=8.1)
 Aligning File: ../train/mfcc/Edwin_S0015.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE RED SENT-END  ==  [202 frames] -60.2212 [Ac=-12164.7 LM=0.0] (Act=8.5)
+SENT-END FILL SQUARE RED SENT-END  ==  [202 frames] -60.9680 [Ac=-12315.5 LM=0.0] (Act=8.4)
 Aligning File: ../train/mfcc/Edwin_S0016.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE GREEN SENT-END  ==  [270 frames] -55.6079 [Ac=-15014.1 LM=0.0] (Act=7.6)
+SENT-END FILL SQUARE GREEN SENT-END  ==  [270 frames] -56.3573 [Ac=-15216.5 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/Edwin_S0017.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE BLUE SENT-END  ==  [230 frames] -58.1720 [Ac=-13379.6 LM=0.0] (Act=7.9)
+SENT-END FILL SQUARE BLUE SENT-END  ==  [230 frames] -58.6603 [Ac=-13491.9 LM=0.0] (Act=8.0)
 Aligning File: ../train/mfcc/Edwin_S0018.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE RED SENT-END  ==  [214 frames] -59.0984 [Ac=-12647.1 LM=0.0] (Act=9.1)
+SENT-END FILL TRIANGLE RED SENT-END  ==  [214 frames] -59.8436 [Ac=-12806.5 LM=0.0] (Act=9.1)
 Aligning File: ../train/mfcc/Edwin_S0019.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE GREEN SENT-END  ==  [205 frames] -56.6771 [Ac=-11618.8 LM=0.0] (Act=8.8)
+SENT-END FILL TRIANGLE GREEN SENT-END  ==  [205 frames] -57.5975 [Ac=-11807.5 LM=0.0] (Act=9.1)
 Aligning File: ../train/mfcc/Edwin_S0020.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE BLUE SENT-END  ==  [200 frames] -58.4084 [Ac=-11681.7 LM=0.0] (Act=9.9)
+SENT-END FILL TRIANGLE BLUE SENT-END  ==  [200 frames] -59.1697 [Ac=-11833.9 LM=0.0] (Act=10.0)
 Aligning File: ../train/mfcc/Edwin_S0021.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE CIRCLE SENT-END  ==  [193 frames] -58.8387 [Ac=-11355.9 LM=0.0] (Act=7.3)
+SENT-END ERASE CIRCLE SENT-END  ==  [193 frames] -59.0112 [Ac=-11389.2 LM=0.0] (Act=7.3)
 Aligning File: ../train/mfcc/Edwin_S0022.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE SQUARE SENT-END  ==  [177 frames] -57.4402 [Ac=-10166.9 LM=0.0] (Act=7.1)
+SENT-END ERASE SQUARE SENT-END  ==  [177 frames] -58.0817 [Ac=-10280.5 LM=0.0] (Act=7.3)
 Aligning File: ../train/mfcc/Edwin_S0023.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE TRIANGLE SENT-END  ==  [212 frames] -56.1863 [Ac=-11911.5 LM=0.0] (Act=7.5)
+SENT-END ERASE TRIANGLE SENT-END  ==  [212 frames] -57.0900 [Ac=-12103.1 LM=0.0] (Act=8.1)
 Aligning File: ../train/mfcc/Kevin_S0001.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE ONE SENT-END  ==  [273 frames] -54.1377 [Ac=-14779.6 LM=0.0] (Act=7.5)
+SENT-END DRAW CIRCLE ONE SENT-END  ==  [273 frames] -54.5303 [Ac=-14886.8 LM=0.0] (Act=7.3)
 Aligning File: ../train/mfcc/Kevin_S0002.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE TWO SENT-END  ==  [232 frames] -56.7263 [Ac=-13160.5 LM=0.0] (Act=7.9)
+SENT-END DRAW CIRCLE TWO SENT-END  ==  [232 frames] -57.1871 [Ac=-13267.4 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/Kevin_S0003.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW CIRCLE THREE SENT-END  ==  [193 frames] -56.8490 [Ac=-10971.9 LM=0.0] (Act=8.1)
+SENT-END DRAW CIRCLE THREE SENT-END  ==  [193 frames] -57.1565 [Ac=-11031.2 LM=0.0] (Act=7.5)
 Aligning File: ../train/mfcc/Kevin_S0004.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE ONE SENT-END  ==  [203 frames] -55.0843 [Ac=-11182.1 LM=0.0] (Act=7.5)
+SENT-END DRAW SQUARE ONE SENT-END  ==  [203 frames] -55.4569 [Ac=-11257.8 LM=0.0] (Act=7.4)
 Aligning File: ../train/mfcc/Kevin_S0005.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE TWO SENT-END  ==  [189 frames] -54.4441 [Ac=-10289.9 LM=0.0] (Act=8.0)
+SENT-END DRAW SQUARE TWO SENT-END  ==  [189 frames] -55.1393 [Ac=-10421.3 LM=0.0] (Act=7.9)
 Aligning File: ../train/mfcc/Kevin_S0006.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW SQUARE THREE SENT-END  ==  [213 frames] -55.4816 [Ac=-11817.6 LM=0.0] (Act=7.3)
+SENT-END DRAW SQUARE THREE SENT-END  ==  [213 frames] -56.4231 [Ac=-12018.1 LM=0.0] (Act=7.0)
 Aligning File: ../train/mfcc/Kevin_S0007.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE ONE SENT-END  ==  [201 frames] -56.9543 [Ac=-11447.8 LM=0.0] (Act=8.6)
+SENT-END DRAW TRIANGLE ONE SENT-END  ==  [201 frames] -56.9753 [Ac=-11452.0 LM=0.0] (Act=8.2)
 Aligning File: ../train/mfcc/Kevin_S0008.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE TWO SENT-END  ==  [235 frames] -56.2688 [Ac=-13223.2 LM=0.0] (Act=8.2)
+SENT-END DRAW TRIANGLE TWO SENT-END  ==  [235 frames] -57.1661 [Ac=-13434.0 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/Kevin_S0009.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END DRAW TRIANGLE THREE SENT-END  ==  [210 frames] -55.9931 [Ac=-11758.5 LM=0.0] (Act=7.7)
+SENT-END DRAW TRIANGLE THREE SENT-END  ==  [210 frames] -56.4334 [Ac=-11851.0 LM=0.0] (Act=7.2)
 Aligning File: ../train/mfcc/Kevin_S0010.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ZOOM IN SENT-END  ==  [140 frames] -61.0450 [Ac=-8546.3 LM=0.0] (Act=7.2)
+SENT-END ZOOM IN SENT-END  ==  [140 frames] -60.2211 [Ac=-8430.9 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/Kevin_S0011.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ZOOM OUT SENT-END  ==  [207 frames] -55.0202 [Ac=-11389.2 LM=0.0] (Act=6.3)
+SENT-END ZOOM OUT SENT-END  ==  [207 frames] -54.7230 [Ac=-11327.7 LM=0.0] (Act=9.0)
 Aligning File: ../train/mfcc/Kevin_S0012.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE RED SENT-END  ==  [177 frames] -58.7142 [Ac=-10392.4 LM=0.0] (Act=8.3)
+SENT-END FILL CIRCLE RED SENT-END  ==  [177 frames] -58.6035 [Ac=-10372.8 LM=0.0] (Act=8.1)
 Aligning File: ../train/mfcc/Kevin_S0013.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE GREEN SENT-END  ==  [215 frames] -60.8695 [Ac=-13086.9 LM=0.0] (Act=8.7)
+SENT-END FILL CIRCLE GREEN SENT-END  ==  [215 frames] -60.9095 [Ac=-13095.5 LM=0.0] (Act=8.2)
 Aligning File: ../train/mfcc/Kevin_S0014.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL CIRCLE BLUE SENT-END  ==  [190 frames] -57.6599 [Ac=-10955.4 LM=0.0] (Act=8.1)
+SENT-END FILL CIRCLE BLUE SENT-END  ==  [190 frames] -58.0220 [Ac=-11024.2 LM=0.0] (Act=7.8)
 Aligning File: ../train/mfcc/Kevin_S0015.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE RED SENT-END  ==  [228 frames] -55.9443 [Ac=-12755.3 LM=0.0] (Act=7.4)
+SENT-END FILL SQUARE RED SENT-END  ==  [228 frames] -56.4195 [Ac=-12863.6 LM=0.0] (Act=7.8)
 Aligning File: ../train/mfcc/Kevin_S0016.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE GREEN SENT-END  ==  [208 frames] -55.2533 [Ac=-11492.7 LM=0.0] (Act=7.0)
+SENT-END FILL SQUARE GREEN SENT-END  ==  [208 frames] -55.6655 [Ac=-11578.4 LM=0.0] (Act=7.2)
 Aligning File: ../train/mfcc/Kevin_S0017.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL SQUARE BLUE SENT-END  ==  [185 frames] -56.4010 [Ac=-10434.2 LM=0.0] (Act=7.2)
+SENT-END FILL SQUARE BLUE SENT-END  ==  [185 frames] -56.9717 [Ac=-10539.8 LM=0.0] (Act=7.5)
 Aligning File: ../train/mfcc/Kevin_S0018.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE RED SENT-END  ==  [190 frames] -56.5506 [Ac=-10744.6 LM=0.0] (Act=8.6)
+SENT-END FILL TRIANGLE RED SENT-END  ==  [190 frames] -56.7441 [Ac=-10781.4 LM=0.0] (Act=7.9)
 Aligning File: ../train/mfcc/Kevin_S0019.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE GREEN SENT-END  ==  [253 frames] -60.1310 [Ac=-15213.2 LM=0.0] (Act=8.0)
+SENT-END FILL TRIANGLE GREEN SENT-END  ==  [253 frames] -60.3925 [Ac=-15279.3 LM=0.0] (Act=8.2)
 Aligning File: ../train/mfcc/Kevin_S0020.mfc
 Created lattice with 5 nodes / 4 arcs from label file
-SENT-END FILL TRIANGLE BLUE SENT-END  ==  [213 frames] -58.4880 [Ac=-12457.9 LM=0.0] (Act=8.0)
+SENT-END FILL TRIANGLE BLUE SENT-END  ==  [213 frames] -58.6924 [Ac=-12501.5 LM=0.0] (Act=7.7)
 Aligning File: ../train/mfcc/Kevin_S0021.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE CIRCLE SENT-END  ==  [158 frames] -60.3101 [Ac=-9529.0 LM=0.0] (Act=8.0)
+SENT-END ERASE CIRCLE SENT-END  ==  [158 frames] -60.3531 [Ac=-9535.8 LM=0.0] (Act=7.6)
 Aligning File: ../train/mfcc/Kevin_S0022.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE SQUARE SENT-END  ==  [214 frames] -55.4283 [Ac=-11861.7 LM=0.0] (Act=7.0)
+SENT-END ERASE SQUARE SENT-END  ==  [214 frames] -55.7167 [Ac=-11923.4 LM=0.0] (Act=7.2)
 Aligning File: ../train/mfcc/Kevin_S0023.mfc
 Created lattice with 4 nodes / 3 arcs from label file
-SENT-END ERASE TRIANGLE SENT-END  ==  [225 frames] -59.3936 [Ac=-13363.6 LM=0.0] (Act=6.9)
+SENT-END ERASE TRIANGLE SENT-END  ==  [225 frames] -60.3691 [Ac=-13583.1 LM=0.0] (Act=7.2)
+Aligning File: ../train/mfcc/Albert_S0001.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW CIRCLE ONE SENT-END  ==  [247 frames] -60.4686 [Ac=-14935.8 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/Albert_S0002.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW CIRCLE TWO SENT-END  ==  [273 frames] -55.4677 [Ac=-15142.7 LM=0.0] (Act=8.0)
+Aligning File: ../train/mfcc/Albert_S0003.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW CIRCLE THREE SENT-END  ==  [340 frames] -53.8171 [Ac=-18297.8 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/Albert_S0004.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW SQUARE ONE SENT-END  ==  [390 frames] -54.7797 [Ac=-21364.1 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/Albert_S0005.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW SQUARE TWO SENT-END  ==  [366 frames] -52.7976 [Ac=-19323.9 LM=0.0] (Act=7.5)
+Aligning File: ../train/mfcc/Albert_S0006.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW SQUARE THREE SENT-END  ==  [334 frames] -57.5450 [Ac=-19220.0 LM=0.0] (Act=7.0)
+Aligning File: ../train/mfcc/Albert_S0007.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW TRIANGLE ONE SENT-END  ==  [360 frames] -53.8067 [Ac=-19370.4 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/Albert_S0008.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW TRIANGLE TWO SENT-END  ==  [328 frames] -56.3808 [Ac=-18492.9 LM=0.0] (Act=8.1)
+Aligning File: ../train/mfcc/Albert_S0009.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END DRAW TRIANGLE THREE SENT-END  ==  [327 frames] -57.4820 [Ac=-18796.6 LM=0.0] (Act=8.0)
+Aligning File: ../train/mfcc/Albert_S0010.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END ZOOM IN SENT-END  ==  [238 frames] -55.3311 [Ac=-13168.8 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/Albert_S0011.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END ZOOM OUT SENT-END  ==  [243 frames] -52.9808 [Ac=-12874.3 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/Albert_S0012.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL CIRCLE RED SENT-END  ==  [245 frames] -59.5928 [Ac=-14600.2 LM=0.0] (Act=8.9)
+Aligning File: ../train/mfcc/Albert_S0013.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL CIRCLE GREEN SENT-END  ==  [299 frames] -56.0287 [Ac=-16752.6 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/Albert_S0014.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL CIRCLE BLUE SENT-END  ==  [317 frames] -55.0328 [Ac=-17445.4 LM=0.0] (Act=7.8)
+Aligning File: ../train/mfcc/Albert_S0015.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL SQUARE RED SENT-END  ==  [312 frames] -55.7083 [Ac=-17381.0 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/Albert_S0016.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL SQUARE GREEN SENT-END  ==  [363 frames] -55.3047 [Ac=-20075.6 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/Albert_S0017.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL SQUARE BLUE SENT-END  ==  [337 frames] -54.1695 [Ac=-18255.1 LM=0.0] (Act=6.8)
+Aligning File: ../train/mfcc/Albert_S0018.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL TRIANGLE RED SENT-END  ==  [369 frames] -55.4861 [Ac=-20474.4 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/Albert_S0019.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL TRIANGLE GREEN SENT-END  ==  [366 frames] -55.7253 [Ac=-20395.5 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/Albert_S0020.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END FILL TRIANGLE BLUE SENT-END  ==  [322 frames] -58.7739 [Ac=-18925.2 LM=0.0] (Act=8.5)
+Aligning File: ../train/mfcc/Albert_S0021.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END ERASE CIRCLE SENT-END  ==  [241 frames] -56.9907 [Ac=-13734.8 LM=0.0] (Act=7.1)
+Aligning File: ../train/mfcc/Albert_S0022.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END ERASE SQUARE SENT-END  ==  [228 frames] -56.5497 [Ac=-12893.3 LM=0.0] (Act=6.7)
+Aligning File: ../train/mfcc/Albert_S0023.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END ERASE TRIANGLE SENT-END  ==  [252 frames] -58.8372 [Ac=-14827.0 LM=0.0] (Act=6.8)
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
